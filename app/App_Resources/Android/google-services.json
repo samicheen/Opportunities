@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033284604825",
+    "firebase_url": "https://opportunities-fbab7.firebaseio.com",
+    "project_id": "opportunities-fbab7",
+    "storage_bucket": "opportunities-fbab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033284604825:android:14c984fb897744cf",
+        "android_client_info": {
+          "package_name": "org.nativescript.Opportunities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033284604825-vjflj69vn91fgl5b7rfl50e0fd1trvuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcze2jQ17rYFsjpi5THiG04ubvSvvyyDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

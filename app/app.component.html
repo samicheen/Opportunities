@@ -1,0 +1,8 @@
+<ActionBar title="Opportunities" class="action-bar"></ActionBar>
+<GridLayout>
+    <ListView [items]="opportunityList" class="small-spacing">
+      <ng-template let-item="item">
+        <Label [text]="item.name" class="medium-spacing"></Label>
+      </ng-template>
+    </ListView>
+</GridLayout>
